@@ -24,6 +24,8 @@ With GitHub Copilot Chat, you can see the results, ask questions, and get real-t
 9. [Use PowerShell to Hash Data with SHA-256](https://github.com/copilot?prompt=use%20powershell%20to%20hash%20data%20with%20sha-256)  
 10. [Use PowerShell to Sign and Verify Data with Digital Signatures](https://github.com/copilot?prompt=use%20powershell%20to%20sign%20and%20verify%20data%20with%20digital%20signatures)  
 
+> more coming ...
+
 ### Conclusion  
 By mastering cryptographic techniques in PowerShell, you can enhance the security of your automation scripts, protect sensitive information, and ensure compliance with best security practices.
 
