@@ -1,4 +1,4 @@
-# PowerShell AI CryptoPrompts
+# PowerShell AI Crypto Prompts
 
 ### Introduction  
 Cryptography is a crucial component of modern security, ensuring the confidentiality, integrity, and authenticity of data. PowerShell, with its rich .NET integration, provides powerful tools for encryption, decryption, and key management. Whether you're securing sensitive files, protecting credentials, or implementing secure communication, PowerShell makes cryptographic operations accessible and efficient. Below, you'll find a collection of practical prompts to help you leverage PowerShell for real-world cryptographic tasks, from AES and RSA encryption to digital signatures and secure key storage.
